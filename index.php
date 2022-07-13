@@ -1,3 +1,6 @@
+<?php
+include "servicos/servicoMensagemSessao.php";
+?>
 <!DOCTYPE html>
 <html>
 
